@@ -1,5 +1,5 @@
 /*
- * FolderTree・コントローラークラス
+ * フォルダツリー表示
  * © 2013 Force.com Developer
  * ----------------------------------------
  * @createdDate      : 2013/01/01
@@ -17,8 +17,6 @@ public with sharing class JQueryFolderTreeController {
 	 * @return	: なし
 	 */
 	public JQueryFolderTreeController() {
-		System.debug('◆◆◆◆JQueryFolderTreeController:START');
 		
-		System.debug('◆◆◆◆JQueryFolderTreeController:END');
 	}
 }
