@@ -1,5 +1,0 @@
-★jQueryでエクスプローラ風メニューに！
-http://ascii.jp/elem/000/000/406/406547/
-
-★jQuery plugin: Treeview
-http://bassistance.de/jquery-plugins/jquery-plugin-treeview/
