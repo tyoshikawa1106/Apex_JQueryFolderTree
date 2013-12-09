@@ -16,7 +16,7 @@ private class JQueryFolderTreeControllerTest {
         
         Test.startTest();
         
-        JQueryFolderTreeControllerTest cls = new JQueryFolderTreeControllerTest();
+        JQueryFolderTreeController cls = new JQueryFolderTreeController();
         
         Test.stopTest();
     }
