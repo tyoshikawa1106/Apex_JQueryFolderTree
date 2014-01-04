@@ -1,4 +1,4 @@
-Apex_IsJQuery_FolderTree
+Apex_JQueryFolderTree
 ========================
 
 JQueryを使ったフォルダツリーを表示するサンプルコードです。  
